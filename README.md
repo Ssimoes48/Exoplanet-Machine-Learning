@@ -1,9 +1,10 @@
 # Machine-Learning
 Machine Learning- Exoplanet Exploration
 
+![exponants](Images/exoplanets.jpg)
+
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -13,13 +14,10 @@ Machine Learning- Exoplanet Exploration
 
 ## General info
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Machine Learning 
+* Jupyter Notebook / Pandas
+* SkLearn
 
 ## Setup
 
