@@ -20,7 +20,7 @@ Machine Learning- Exoplanet Exploration
 * SkLearn
 
 ## EDA
-###EDA (Exploratory Data Analysis) and data cleaning
+### Exploratory Data Analysis & data cleaning
 
 ## Models
 
