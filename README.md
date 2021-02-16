@@ -4,28 +4,27 @@ Machine Learning- Exoplanet Exploration
 ![exponants](Images/exoplanets.jpg)
 
 ## Table of contents
-* [General info](#general-info)
+* [Objective](#objective)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
+* [EDA](#eda)
+* [Models](#models)
+* [Accuracy](#accuracy)
 * [Resources](#resources)
 * [Contact](#contact)
 
-## General info
+## Objective
 
 ## Technologies
 * Machine Learning 
 * Jupyter Notebook / Pandas
 * SkLearn
 
-## Setup
+## EDA
+###EDA (Exploratory Data Analysis) and data cleaning
 
-## Code Examples
+## Models
 
-## Features
-
-## Status
+## Accuracy 
 
 ## Resources
 
