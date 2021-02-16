@@ -71,11 +71,11 @@ For my second model, I used a `GridSearchSCV`.  I tested a linear and rbf kernel
 
 The Neural Network is a more accurate network with a accuracy rating of 88%. The Grid Search model is slightly less accurate with a rating of 80%. 
 
-Model 1 Neural Network
+Model 1 Neural Network: 88% Accurate 
 
 ![model1 accuracy](Images/model1_accuracy.JPG)
 
-Model 2- Grid Search
+Model 2- Grid Search: 80% Accurate 
 
 ![model2 accuracy](Images/model2_accuracy.JPG)
 
