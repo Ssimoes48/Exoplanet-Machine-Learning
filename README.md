@@ -22,6 +22,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 * SkLearn
 
 ## EDA
+<<<<<<< HEAD
 
 Exploratory Data Analysis & data cleaning
 
@@ -48,6 +49,9 @@ I performed a test/split on my data.
 Then I scaled the data using a `StandardScaler()` 
 
 ![scaler](Images/scaler.JPG)
+=======
+### Exploratory Data Analysis & data cleaning
+>>>>>>> 1024ae541e918b6382fa699a45f490ced742e327
 
 ## Models
 
