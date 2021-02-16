@@ -57,11 +57,11 @@ My first model is a Neural Network. First I `one-hot` coded the data into catego
 
 I used `from tensorflow.keras.layers import Dense` to create the model and added 8 inputs, 10 hidden layers and 3 outputs for Candidate, False Positive & Confirmed. 
 
-![model 1](Images/model1)
+![model 1](Images/model1.JPG)
 
 I then fit the train model. 
 
-![model 1.2](Images/model1_2)
+![model 1.2](Images/model1_2.JPG)
 
 For my second model, I used a `GridSearchSCV`.  I tested a linear and rbf kernel: `'kernel': ('linear', 'rbf')}` . I then fit the model. 
 
