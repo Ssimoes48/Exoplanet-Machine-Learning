@@ -39,7 +39,7 @@ I then used a `RandomForestClassifier` to see the importance of the balance of t
 
 ![random forest](Images/random_forest.JPG)
 
-I decided to keep columns with an importance value of higher than 0.04. This left 9 columns of important data to fit in my model. 
+I decided to keep columns with an importance value of higher than 0.04. This left 8 columns of important data to fit in my model. 
 
 I performed a test/split on my data. 
 
@@ -51,7 +51,29 @@ Then I scaled the data using a `StandardScaler()`
 
 ## Models
 
+My first model is a Neural Network. First I `one-hot` coded the data into categorical data.
+
+![one-hot](Images/one_hot.JPG) 
+
+I used `from tensorflow.keras.layers import Dense` to create the model and added 8 inputs, 10 hidden layers and 3 outputs for Candidate, False Positive & Confirmed. 
+
+![model 1](Images/model1)
+
+I then fit the train model. 
+
+![model 1.2](Images/model1_2)
+
+For my second model, I used a `GridSearchSCV`.  I tested a linear and rbf kernel: `'kernel': ('linear', 'rbf')}` . I then fit the model. 
+
+![model2](Images/model2.JPG)
+
 ## Accuracy 
+
+The Neural Network is a more accurate network with a accuracy rating of 88%. The Grid Search model is slightly less accurate with a rating of 80%. 
+
+![model1 accuracy](Images/model1_accuracy.JPG)
+
+![model2 accuracy](Images/model2_accuracy.JPG)
 
 ## Resources
 
