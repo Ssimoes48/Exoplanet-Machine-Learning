@@ -51,7 +51,7 @@ Then I scaled the data using a `StandardScaler()`
 
 ## Models
 
-My first model is a Neural Network. First, I `one-hot` coded the data into categorical data.
+My first model is a Neural Network. First, I `one-hot encoded` the data categorical data into numeric data. 
 
 ![one-hot](Images/one_hot.JPG) 
 
